@@ -36,9 +36,9 @@ Most of these were written in the [yab](www.yab.orgfree.com) language. I'm not r
 + [vstm-gui](https://clasqm.github.io/vstm-gui/) - *beta*
 + [Xtract1](https://clasqm.github.io/Xtract1/) - *beta*
 + [Yabadabbadoo](https://clasqm.github.io/Yabadabbadoo/) - An alternative IDE for the yab programming language - *beta*
-++ [yabadabbadoo_github_integration](https://clasqm.github.io/yabadabbadoo_github_integration/) - *beta*
++ [yabadabbadoo github_integration](https://clasqm.github.io/yabadabbadoo_github_integration/) - *beta*
 + [yabdialog](https://clasqm.github.io/yabdialog/) - A CLI utility that displays a variety of dialogs, alerts and panels  - *beta*
 + [yabTemplatePicker](https://clasqm.github.io/yabTemplatePicker/) - *beta*
-++ [yabTemplatePicker_templates](https://clasqm.github.io/yabTemplatePicker_templates/) - A set of templates for the [yabTemplatePicker](https://github.com/clasqm/yabTemplatePicker) app. - *beta*
++ [yabTemplatePicker templates](https://clasqm.github.io/yabTemplatePicker_templates/) - A set of templates for the [yabTemplatePicker](https://github.com/clasqm/yabTemplatePicker) app. - *beta*
 + [ZipDropper](https://clasqm.github.io/ZipDropper/) - *beta*
 
