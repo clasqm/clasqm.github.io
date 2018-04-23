@@ -9,4 +9,8 @@
 
 
 ## Software for Haiku OS
++ (BAS 4 Haiku)[https://clasqm.github.io/bas4haiku/]
 
+
+
+====================
