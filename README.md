@@ -3,7 +3,7 @@
 ## Software for Linux
 
 + [Yabasic](https://clasqm.github.io/yabasic/) Framework to build a Debian package of yabasic. - ongoing
-+ [Yabasic libraries](https://clasqm.github.io/yabasiclibs/) - Extension libraries for yabasic. - *planning*
++ [Yabasic libraries](https://clasqm.github.io/yabasiclibs/) - Extension libraries for yabasic. - *pre-alpha*
 
 
 ## OS-Independent software
