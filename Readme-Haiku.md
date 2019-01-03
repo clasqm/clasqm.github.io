@@ -2,6 +2,10 @@
 
 Most of these were written in the [yab](www.yab.orgfree.com) language. I'm not really working on this any more - at least not until Haiku reaches a stable beta status. Apps marked "*beta*" below should compile and run well enough. I am just not ready to call anything a Release until I know the platform they run on will be relatively stable.
 
+**UPDATE**: Haiku has reached beta status, and I am starting to do ground-up rewrites of my apps. It will take a while, though.
+
+## Pre-beta apps
+
 + [barberpole](https://clasqm.github.io/barberpole/) - Display a spinning barberpole with a message - *beta*
 + [crashtest](https://clasqm.github.io/crashtest/) - Script offers disk check if computer crashed - *beta*
 + [BAS 4 Haiku](https://clasqm.github.io/bas4haiku/) - *[hosted] ready to compile*
@@ -29,4 +33,10 @@ Most of these were written in the [yab](www.yab.orgfree.com) language. I'm not r
 + [yabTemplatePicker](https://clasqm.github.io/yabTemplatePicker/) - A template picking accessory app for the Yabadabbadoo IDE. Also usable as a standalone app. - *beta*
 + [yabTemplatePicker templates](https://clasqm.github.io/yabTemplatePicker_templates/) - A set of templates for the [yabTemplatePicker](https://github.com/clasqm/yabTemplatePicker) app. - *beta*
 + [ZipDropper](https://clasqm.github.io/ZipDropper/) - A zip utility with a minimalist interface - *beta*
+
+## Post-beta apps
+
+Existing applications will be rewritten  from the ground up. The idea here is to reduce the reliance on third-party applications where possible and fix some things that I didn't quite get right the first time. The resulting apps will have the same internal name as before (e.g. *Trope* rather than *Trope 2*).
+
++ [Trope2](https://clasqm.github.io/Trope/) - Text Editor for Haiku - *in development*
 
