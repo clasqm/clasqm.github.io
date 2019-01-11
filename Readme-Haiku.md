@@ -39,4 +39,5 @@ Most of these were written in the [yab](www.yab.orgfree.com) language. I'm not r
 Existing applications will be rewritten  from the ground up. The idea here is to reduce the reliance on third-party applications where possible and fix some things that I didn't quite get right the first time. The resulting apps will have the same internal name as before (e.g. *Trope* rather than *Trope 2*).
 
 + [Trope2](https://clasqm.github.io/Trope2/) - Text Editor for Haiku - *in development*
++ [Rondel](https://clasqm.github.io/Rondel/) - Markdown-aware text editor for Haiku with HTML-generation - *in development*
 
