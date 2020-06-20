@@ -8,6 +8,7 @@
 ## Software for FreeDOS
 
 + [My FreeDOS repository](https://clasqm.github.io/freedos-repo) of programs by myself and (mostly) by others.
++ [Assorted QuicBASIC Snippets](https://github.com/clasqm/AssortedQuickBasicSnippets) - what the title says.
 
 ## OS-Independent software
 
