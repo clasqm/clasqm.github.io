@@ -23,7 +23,6 @@ Most of these were written in the [yab](www.yab.orgfree.com) language. I'm not r
 + [FontMonkey](https://clasqm.github.io/FontMonkey/) - program to preview, load and unload fonts from the clasqm repo.
 + [GraphicsWorkflow](https://clasqm.github.io/GraphicsWorkflow/) - A system to string various graphics applets into a sequence, a bit like Automator on Mac OSX - *I may strip out the individual utlilities from this*.
 + [MenuBar](https://clasqm.github.io/MenuBar/) - A menu for the Haiku Desktop.
-+ [References](https://clasqm.github.io/References/) - A reference manager for Haiku - *pre-alpha*
 + [ScriptAssistant](https://clasqm.github.io/ScriptAssistant/) - A little utility to display the help content of scripting commands.
 + [vstm-gui](https://clasqm.github.io/vstm-gui/) - Simple TODO list manager for Haiku with graphical front-end.
 + [yabadabbadoo github_integration](https://clasqm.github.io/yabadabbadoo_github_integration/) - Github integration scripts for Yabadabbadoo.
