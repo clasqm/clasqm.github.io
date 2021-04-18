@@ -9,6 +9,7 @@
 
 + [My FreeDOS repository](https://clasqm.github.io/freedos-repo) of programs by myself and (mostly) by others.
 + [QBASDOWN](https://clasqm.github.io/QBASDOWN/) - A Markdown implementation for FreeDOS 
++ [Amb-utils](https://github.com/clasqm/amb-utils) - Small FreeDOS utilities for Mateusz Viste's AMB (Ancient Machine Book) e-book format.
 + [Assorted QuicBASIC Snippets](https://github.com/clasqm/AssortedQuickBasicSnippets) - what the title says.
 
 ## OS-Independent software
