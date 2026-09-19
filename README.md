@@ -19,5 +19,5 @@
 
 ## Software for Haiku OS
 
-+ See [this page](https://clasqm.github.io/Readme-Haiku).
++ See [this page](https://sites.google.com/view/michelshaikuapps/home).
 
