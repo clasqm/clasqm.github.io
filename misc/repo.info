@@ -1,0 +1,7 @@
+name "MichelMisc"
+vendor "clasqm"
+summary "Miscellaneous package repository"
+priority 2
+url https://clasqm.github.io/misc
+architecture x86_64
+identifier 83c787b32b3940932da04283eb0cc536af4e01887d2f
