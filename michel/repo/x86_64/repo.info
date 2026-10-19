@@ -1,0 +1,6 @@
+name	"clasqm"
+vendor	"clasqm"	
+summary	"Michel Clasquin-Johnson's repository"
+priority	1
+url	https://github.com/clasqm/clasqm.github.io/blob/master/repo/x86_64
+architecture	x86_64
